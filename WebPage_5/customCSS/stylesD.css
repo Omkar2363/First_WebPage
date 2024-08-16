@@ -1,0 +1,44 @@
+#parent {
+  background-color: #212121;
+  margin: auto;
+  width: 256px;
+  height: 256px;
+  /* Position properties below this line */
+  position: relative;
+  /* Position properties above this line */
+}
+#child-1,
+#child-2,
+#child-3 {
+  width: 2rem;
+  height: 2rem;
+}
+
+#child-1 {
+  background-color: #ff8a80;
+  /* Position properties below this line */
+  position: absolute;
+  right: 0px;
+
+  /* Position properties above this line */
+}
+
+#child-2 {
+  background-color: #69f0ae;
+  /* Position properties below this line */
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
+
+  /* Position properties above this line */
+}
+
+#child-3 {
+  background-color: #ffee58;
+  /* Position properties below this line */
+  position: absolute;
+  bottom: 0px;
+  right: 0px;
+
+  /* Position properties above this line */
+}
