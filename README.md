@@ -14,3 +14,6 @@ This folder contains a static HTML page (index4.html) or we can say a static res
 
 ## WebPage_5
 This folder contains multiple static HTML pages. They showcase the use of position property in the CSS. Using that property the boxes are arranged differently and at various positions in each page.
+
+## WebPage_6
+This folder contains the implementation of a  static sidebar with plain HTML and CSS only.
