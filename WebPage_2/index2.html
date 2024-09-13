@@ -17,6 +17,11 @@
             padding : 16px;
             margin-bottom : 10px;
             margin-left : 10px;
+            box-sizing : border-box;
+          }
+          .team-member:hover{
+            border : 5px solid gray;
+
           }
           .team-member#anna {
             background-color: darkcyan;
@@ -39,6 +44,9 @@
               color: navy;
             }
           }
+          .profile-img{
+            margin-bottom : 0px;
+          }
 
         </style>
     </head>
@@ -46,7 +54,7 @@
         <h1 class="main-heading">Meet the team</h1>
         <h2 class="main-subtitle">Meet the people who make this software awesome</h2>
         <section class="team-member" id="anna">
-            <img width="100px" height="100px" src="https://api.dicebear.com/7.x/avataaars/svg?seed=annakendrick" alt="Anna Kendrick"/>
+            <img class="profile-img" width="100px" height="100px" src="https://api.dicebear.com/7.x/avataaars/svg?seed=annakendrick" alt="Anna Kendrick"/>
             <h2>Anna Kendrick</h2>
             <h3>Front-end Ninja</h3>
             <p>
@@ -55,7 +63,7 @@
             </p>
         </section>
         <section class="team-member" id="harry">
-            <img width="100px" height="100px" src="https://api.dicebear.com/7.x/avataaars/svg?seed=harryfawn" alt="Harry Fawn"/>
+            <img class="profile-img" width="100px" height="100px" src="https://api.dicebear.com/7.x/avataaars/svg?seed=harryfawn" alt="Harry Fawn"/>
             <h2>Harry Fawn</h2>
             <h3>Illustrator</h3>
             <p>
@@ -64,7 +72,7 @@
             </p>
         </section>
         <section class="team-member" id="sofia">
-            <img width="100px" height="100px" src="https://api.dicebear.com/7.x/avataaars/svg?seed=sofiasulta" alt="Sofia Sultan"/>
+            <img class="profile-img" width="100px" height="100px" src="https://api.dicebear.com/7.x/avataaars/svg?seed=sofiasulta" alt="Sofia Sultan"/>
             <h2>Sofia Sultan</h2>
             <h3>Backend Engineer</h3>
             <p>
