@@ -17,3 +17,6 @@ This folder contains multiple static HTML pages. They showcase the use of positi
 
 ## WebPage_6
 This folder contains the implementation of a  static sidebar with plain HTML and CSS only.
+
+## WebPage_7
+This folder contains the webPage created with the use of HTML and multiple Bootstrap classes and no Vanilla CSS is used to create this page. This page contains the Navigation bar, Cards, footer and the Grid showcasing the multiple cards. 
