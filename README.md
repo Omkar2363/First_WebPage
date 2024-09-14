@@ -20,3 +20,6 @@ This folder contains the implementation of a  static sidebar with plain HTML and
 
 ## WebPage_7
 This folder contains the webPage created with the use of HTML and multiple Bootstrap classes and no Vanilla CSS is used to create this page. This page contains the Navigation bar, Cards, footer and the Grid showcasing the multiple cards. 
+
+## WebPage_8
+This folder contains a static webPage of XCruise created with the HTML and Vanilla CSS only. This is the complete Landing Page of the XCruise company. This Page has navbar, banner, grid section with multiple cards, contact section and the footer at the end of the page. This is completely a static Page.
